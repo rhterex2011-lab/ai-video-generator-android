@@ -7,28 +7,23 @@ local.properties
 
 # Log/OS Files
 *.log
+.DS_Store
 
 # Android Studio generated files and folders
-captures/
-.externalNativeBuild/
-.cxx/
-*.aab
-*.apk
-output-metadata.json
-
-# IntelliJ
-*.iml
 .idea/
-misc.xml
-deploymentTargetDropDown.xml
-render.experimental.xml
+.classpath
+.project
+.settings/
+*.iml
+*.iws
+*.ipr
 
-# Keystore files
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be committed to a repository
+# (Comment this out if you want the launch configuration part of your VS Code settings)
+.vscode/
+
+# misc
 *.jks
 *.keystore
-
-# Google Services (e.g. APIs or Firebase)
-google-services.json
-
-# Android Profiling
-*.hprof
+*.bak

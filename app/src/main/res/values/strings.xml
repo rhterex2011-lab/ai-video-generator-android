@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI Video Generator</string>
+    <string name="home_title">مولد الفيديو بالذكاء الاصطناعي</string>
+    <string name="create_new_video">إنشاء فيديو جديد</string>
+    <string name="video_editor">محرر الفيديو</string>
+    <string name="enter_script">أدخل نص السيناريو</string>
+    <string name="generate_video">توليد الفيديو</string>
+    <string name="back">رجوع</string>
+</resources>
